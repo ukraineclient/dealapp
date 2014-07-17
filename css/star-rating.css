@@ -1,0 +1,10 @@
+﻿.star {
+    display: inline-block;    
+    width: 10px;
+    height: 10px;
+    background-color: #CC0;
+    margin: 3px;
+}
+.active {
+    background-color: #C00;
+}
